@@ -1,0 +1,5 @@
+c:\users\saldar05\documents\visual studio 2013\Projects\darylStudentProject\darylStudentProject\bin\Debug\darylStudentProject.exe.config
+c:\users\saldar05\documents\visual studio 2013\Projects\darylStudentProject\darylStudentProject\bin\Debug\darylStudentProject.exe
+c:\users\saldar05\documents\visual studio 2013\Projects\darylStudentProject\darylStudentProject\bin\Debug\darylStudentProject.pdb
+c:\users\saldar05\documents\visual studio 2013\Projects\darylStudentProject\darylStudentProject\obj\Debug\darylStudentProject.exe
+c:\users\saldar05\documents\visual studio 2013\Projects\darylStudentProject\darylStudentProject\obj\Debug\darylStudentProject.pdb
